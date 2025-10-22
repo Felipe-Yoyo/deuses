@@ -1,29 +1,9 @@
 {
   "Deuses": [
     {
-      "nome": "Zeus"
-      "simbolo": "Raio"
-      "poder": "95"
-    },
-    {
-      "nome": "Poseidon"
-      "simbolo": "Tridente"
-      "poder": "90"
-    },
-    {
-      "nome": "Hades"
-      "simbolo": "Elmo"
-      "poder": "88"
-    },
-    {
-      "nome": "Atena"
-      "simbolo": "Coruja"
-      "poder": "85"
-    },
-    {
-      "nome": "Apolo"
-      "simbolo": "Lira"
-      "poder": "80"
+      "nomes": ["Zeus", "Poseidon", "Hades", "Atena", "Apolo", "Ártemis", "Ares"]
+      "simbolos": ["Raio", "Tridente", "Elmo", "Coruja", "Lira", "Arco", "Espada"]
+      "poderes": [95, 90, 88, 85, 80, 78, 82]
     }
-  ],
+  ]
 }
